@@ -1,16 +1,31 @@
-## Hi there 👋
+# André Lutes
 
-<!--
-**Andre-Lutes/Andre-Lutes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Data Science | Machine Learning | Python | SQL
 
-Here are some ideas to get you started:
+## About Me
+Data Analyst with 10+ years of experience in BI, data analysis, and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on Data Science and Machine Learning, with hands-on projects in:
+- Anomaly Detection
+- NLP (FinBERT)
+- Predictive Modeling
+
+## Tech Stack
+- Python (Pandas, Scikit-Learn)
+- SQL
+- Power BI
+- BigQuery
+- Machine Learning
+
+## Featured Projects
+
+🔹 Anomaly Detection (ML)  
+Detecting critical patterns in healthcare data (~92% recall)
+
+🔹 Sentiment Analysis (NLP)  
+FinBERT applied to financial news
+
+🔹 Price Prediction (Regression)  
+
+## Contact
+LinkedIn: https://linkedin.com/in/andre-lutes
